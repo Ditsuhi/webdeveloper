@@ -1,0 +1,24 @@
+{
+  "name": "webdeveloper",
+  "version": "1.0.0",
+  "description": "My first bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ditsuhi/webdeveloper.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "javascript",
+    "master"
+  ],
+  "author": "Ditsuhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ditsuhi/webdeveloper/issues"
+  },
+  "homepage": "https://github.com/Ditsuhi/webdeveloper#readme"
+}
